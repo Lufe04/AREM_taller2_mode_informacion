@@ -229,3 +229,4 @@ El modelo ERD de Pecker Nutrition S.A.S. fue diseñado alineado con el proceso r
 - Registro financiero.
 
 Se trata de una estructura modular, trazable y escalable que soporta tanto la operación actual como el crecimiento futuro de la empresa.
+
